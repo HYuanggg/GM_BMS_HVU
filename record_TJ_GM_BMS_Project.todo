@@ -245,14 +245,16 @@
 
   6.2、充放电控制:
     6.1.1、需求
-      ☐ On-board charger： CC/CP with GB/T 20234-2015;
-      ☐ Off-board charger： CC1/CC2 with GB/T20234-2015;
+      ✔ On-board charger： CC/CP with GB/T 20234-2015; @done (18-11-28 21:26)
+      ✔ Off-board charger： CC1/CC2 with GB/T 20234-2015; @done (18-11-28 21:26)
 
     6.1.2、设计
+        ✔ 原理图； @done (18-11-28 23:39)
+        ✔ PCB； @done (19-01-21 12:39)
 
     6.1.3、实现
       ✔ 拿到叶工给的国标参考资料； @done (18-10-15 17:42)
-      ☐ 原理图；
-      ☐ PCB；
-      ☐ 实物；
+      ✔ 原理图； @done (19-01-21 12:39)
+      ✔ PCB； @done (19-01-21 12:39)
+      ✔ 实物； @done (19-01-21 12:39)
       ☐ 测试；
